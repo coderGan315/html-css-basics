@@ -31,14 +31,14 @@ header {
   text-align: center;
 }
 header > h1 {
-  color: #810955;
+  color: #53bf9d;
 }
 header > img {
   width: 300px;
 }
 /* main section */
 main {
-  background-color: #ee81b3;
+  background-color: #53bf9d;
   width: 750px;
   margin: 50px auto;
   border-radius: 8px;
@@ -51,7 +51,7 @@ li {
 }
 .important {
   border-color: #ffe7bf;
-  color: #ffe7bf;
+  color: #f8eddb;
 }
 li,
 .first-section {
