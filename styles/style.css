@@ -34,3 +34,35 @@ header > h1 {
 header > img {
   width: 300px;
 }
+/* main section */
+main {
+  background-color: #ee81b3;
+  width: 750px;
+  margin: 50px auto;
+  border-radius: 8px;
+  border: 2px solid black;
+  padding: 25px;
+}
+li {
+  padding-left: 10px;
+  border-left: 4px solid transparent;
+}
+.important {
+  border-color: #ffe7bf;
+  color: #ffe7bf;
+}
+li,
+.first-section {
+  margin-bottom: 15px;
+}
+.link {
+  background-color: #ffe7bf;
+  padding: 8px;
+  border-radius: 8px;
+  color: rgba(42, 27, 27, 0.75);
+}
+.link:active,
+.link:hover {
+  background-color: rgba(42, 27, 27, 0.75);
+  color: #ffe7bf;
+}
