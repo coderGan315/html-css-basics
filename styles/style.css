@@ -66,3 +66,19 @@ li,
   background-color: rgba(42, 27, 27, 0.75);
   color: #ffe7bf;
 }
+footer {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.btn {
+  background-color: #fcc86f;
+  padding: 15px 32px;
+  border-radius: 10px;
+  color: #2a1b1bbf;
+}
+.btn:active,
+.btn:hover {
+  background-color: #2a1b1bbf;
+  color: #fcc86f;
+  box-shadow: 2px 3px 3px rgba(84, 35, 31, 0.722);
+}
